@@ -42,7 +42,7 @@ $pkg install git
 
 $git clone https://github.com/zaid-hsoft/mini-zcalc
 
-$dc mini-zcalc
+$cd mini-zcalc
 
 $pkg install php
 
