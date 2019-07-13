@@ -8,8 +8,8 @@
 //UBUNTU
 
 Buka Terminal dan jalankan Perintah : 
-$cd
-$sudo apt install git
+//$cd
+//$sudo apt install git
 $git clone https://github.com/zaid-hsoft/mini-zcalc
 $cd mini-zcalc
 $sudo apt install php
