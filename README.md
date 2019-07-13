@@ -1,11 +1,11 @@
-#Mini-ZCalc v 1.0\n
+#Mini-ZCalc v 1.0
 #KALKULATOR SEDERHANA DIBUAT MENGGUNAKAN PHP
 #Dibuat Pada : Sabtu, 13 Juli 2019
-#Oleh : Zaid Harisah a.k.a Taka
+#Oleh : Zaid Harisah
 
 //UBUNTU
 
-Jalankan Perintah : 
+Buka Terminal dan jalankan Perintah : 
 $cd
 $sudo apt install git
 $git clone https://github.com/zaid-hsoft/mini-zcalc
@@ -17,6 +17,7 @@ Kemudian anda buka browser dan kunjungi URL :
 http://localhost:8080/
 
 //ANDROID
+
 Buka Termux dan jalankan perintah : 
 $cd 
 $pkg install git
