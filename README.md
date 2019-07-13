@@ -1,4 +1,4 @@
-#Mini-ZCalc v 1.0
+#Mini-ZCalc v 1.0\n
 #KALKULATOR SEDERHANA DIBUAT MENGGUNAKAN PHP
 #Dibuat Pada : Sabtu, 13 Juli 2019
 #Oleh : Zaid Harisah a.k.a Taka
