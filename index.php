@@ -1,10 +1,12 @@
 <?php
     
-    /*==================================================*/      
-    /*  Deskripsi : Mini Zcalc Main Loader Script       |/
+    /*==================================================*/  
+    /*  Package   : Mini-ZCalc                          |/
+    /|  Deskripsi : Kalkulator sederhana PHP            |/
     /|  Filename  : index.php                           |/
     /|  Coder     : Zaid Harisah                        |/
     /|  Facebook  : fb.com/kurotaka.id                  |/
+    /|  Disusun   : Sabtu, 13 Juli 2019                 |/
     /|  Site      : http://svopt.github.io              |/
     /|   ______   _                                     |/
     /|  |__  / | | | *** /                              |/
