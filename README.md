@@ -17,7 +17,7 @@ $cd
 
 $sudo apt install git
 
-$git clone https://github.com/zaid-hsoft/mini-zcalc
+$git clone https://github.com/zaid-dev/mini-zcalc
 
 $cd mini-zcalc
 
