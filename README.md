@@ -17,17 +17,17 @@ $cd
 
 $sudo apt install git
 
-$git clone https://github.com/zaid-dev/mini-zcalc
+$git clone https://github.com/zaidhdev/mini-zcalc
 
 $cd mini-zcalc
 
 $sudo apt install php
 
-$php -S localhost:8080
+$sudo php -S localhost:80
 
 
 Kemudian anda buka browser dan kunjungi URL :
-http://localhost:8080/
+http://localhost
 
 
 -------------------------
@@ -40,7 +40,7 @@ $cd
 
 $pkg install git
 
-$git clone https://github.com/zaid-hsoft/mini-zcalc
+$git clone https://github.com/zaidhdev/mini-zcalc
 
 $cd mini-zcalc
 
