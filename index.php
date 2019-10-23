@@ -5,14 +5,14 @@
     /|  Deskripsi : Kalkulator sederhana PHP            |/
     /|  Filename  : index.php                           |/
     /|  Coder     : Zaid Harisah                        |/
-    /|  Facebook  : fb.com/kurotaka.id                  |/
+    /|  Facebook  : fb.com/zaidhdev                     |/
     /|  Disusun   : Sabtu, 13 Juli 2019                 |/
-    /|  Site      : http://svopt.github.io              |/
+    /|  Site      : http://zaidhdev.github.io           |/
     /|   ______   _                                     |/
     /|  |__  / | | | *** /                              |/
     /|    / /| |_| | ** /                               |/
     /|   / /_|  _  | * /                                |/
-    /|  /____|_| |_|  / github.com/zaid-dev             |/
+    /|  /____|_| |_|  / github.com/zaidhdev             |/
     /|                                                  */
     /*==================================================*/
     
