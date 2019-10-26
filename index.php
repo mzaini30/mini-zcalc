@@ -335,15 +335,15 @@ else{
                 <fieldset>
                     <legend>Mini ZCalc</legend>
                     <div class="operasi">
-                        <input type="number" class="num num1" name="num_one" value="<?php echo $num_1;?>" autocomplete="off">
+                        <input type="number" class="num num1" name="num_one" value="<?= $num_1;?>" autocomplete="off">
                         <select name="arithm">
-                            <option value="plus" <?php echo $pl_sel;?>>+</option>
-                            <option value="minus" <?php echo $mn_sel;?>>-</option>
-                            <option value="mult" <?php echo $ml_sel;?>>x</option>
-                            <option value="div" <?php echo $dv_sel;?>>/</option>
-                            <option value="ekspon" <?php echo $ek_sel;?>>^</option>
+                            <option value="plus" <?= $pl_sel;?>>+</option>
+                            <option value="minus" <?= $mn_sel;?>>-</option>
+                            <option value="mult" <?= $ml_sel;?>>x</option>
+                            <option value="div" <?= $dv_sel;?>>/</option>
+                            <option value="ekspon" <?= $ek_sel;?>>^</option>
                         </select>
-                        <input type="number" class="num num2" name="num_two" value="<?php echo $num_2;?>" autocomplete="off">
+                        <input type="number" class="num num2" name="num_two" value="<?= $num_2;?>" autocomplete="off">
                     </div>
                     <p class="submit">
                         <input type="submit" name="result" value="RESULT>>">
